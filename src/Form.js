@@ -52,7 +52,7 @@ function Form() {
             <input type="number" name="first_value" onChange={onChange} placeholder="Age"/>
             <input type="number" name="second_value" onChange={onChange} placeholder="Years with current employer"/>
             <input type="number" name="third_value" onChange={onChange} placeholder="Years at current address"/>
-            <input type="number" name="fourth_value" onChange={onChange} placeholder="Household income"/>
+            <input type="number" name="fourth_value" onChange={onChange} placeholder="Household income (k)"/>
             <input type="number" name="fiveth_value" onChange={onChange} placeholder="Debt to income ratio" step="0.01"/>
             <input type="number" name="sixth_value" onChange={onChange} placeholder="Credit card debt" step="0.01"/>
             <input type="number" name="seventh_value" onChange={onChange} placeholder="Other debt" step="0.01"/>

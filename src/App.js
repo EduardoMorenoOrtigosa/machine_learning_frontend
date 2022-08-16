@@ -6,7 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={bonum} className="App-logo" alt="logo" />
+        <h1>GOBONUM</h1>
+
         <Form />
       </header>
     </div>
