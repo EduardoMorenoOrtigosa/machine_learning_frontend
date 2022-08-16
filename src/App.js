@@ -1,4 +1,4 @@
-import bonum from './Crop_bonum2.svg';
+import bonum from './BONUM_logo.png';
 import './App.css';
 import Form from './Form';
 
@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>GOBONUM</h1>
+        <img src={bonum} className="App-logo" alt="logo" />
 
         <Form />
       </header>
