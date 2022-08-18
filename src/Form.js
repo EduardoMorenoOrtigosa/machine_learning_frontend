@@ -73,7 +73,7 @@ function Form() {
             
         </form>
         <br></br>
-        <form action="http://127.0.0.1:5000/predict_form">
+        <form action="https://gobonum-api1.herokuapp.com/predict_form">
                 <input type="submit" value="File Upload" />
             
         </form>
